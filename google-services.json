@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "868577984715",
+    "firebase_url": "https://staging-77716.firebaseio.com",
+    "project_id": "staging-77716",
+    "storage_bucket": "staging-77716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868577984715:android:904bd3d0b780aae9",
+        "android_client_info": {
+          "package_name": "com.noargs.ionicfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868577984715-7ohd0f019h72osaqukr2avtg2j2c6hhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXx7OU593j4tPJYEMzI3ChiWDjtzg7cLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
